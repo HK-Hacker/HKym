@@ -7,7 +7,7 @@ $ pip2 install requests
 
 $ pip2 install bs4
 
-$ python HKym.py
+$ python3 HKym.py
 
 Enjoy! ^_^
 # Photo
